@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**prachie6157/prachie6157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there! 👋
+My name is Prachi . A student currently pursuing Computer science Engineering. 
+<br><br>
+I am always ready to have new experiences and learn new things. I am a artist, website designer and developer. <br>I love art and always try to show unique views to the audience through my design. If you're want more detailed information about me, check out my website!
 
-Here are some ideas to get you started:
+- Linkedin: [Prachi Goje](https://www.linkedin.com/in/prachi-goje-368837208/)
+- Twitter: [@iampra6157](https://twitter.com/iampra6157)
+- Instagram: [@iampra6157](https://www.instagram.com/iampra6157/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<a href="https://github.com/prachie6157">
+  <img src="https://github-readme-stats.vercel.app/api?username=prachie6157&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=87b4bf&text_color=FFFFFF&icon_color=87b4bf">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachie6157&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=87b4bf">
+</a>
