@@ -1,8 +1,9 @@
 
 ### Hello there! 👋
-My name is Prachi . A student currently pursuing Computer science Engineering. 
+A student currently pursuing Computer science Engineering. 
 <br><br>
-I am always ready to have new experiences and learn new things. I am a artist, website designer and developer. <br>I love art and always try to show unique views to the audience through my design. If you're want more detailed information about me, check out my website!
+Always ready to have new experiences and learn new things. 
+A artist, website designer and developer. <br>Love art and always try to show unique views to the audience through my design. If you're want more detailed information about me, check out my website!
 
 - Linkedin: [Prachi Goje](https://www.linkedin.com/in/prachi-goje-368837208/)
 - Instagram: [@iampra6157](https://www.instagram.com/iampra6157/)
